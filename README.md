@@ -2,23 +2,39 @@
 
 ---
 
-### 👀 **Interests**
 <p align="center">
-    I'm deeply passionate about <strong>Tech</strong> and <strong>Coding</strong>. My curiosity drives me to constantly explore new ideas, tools, and technologies, always pushing the boundaries of what's possible.
+  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username" alt="Profile views">
 </p>
 
 ---
 
-### 🌱 **Currently Learning**
+### 📊 **Herlan Mustopa's GitHub Stats**
+
 <p align="center">
-    I'm on an exciting journey to learn <strong>everything that captures my interest</strong>. Whether it's mastering a new framework, diving into AI, or exploring the vast <strong>Multiverse</strong>, I'm all in!
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=prs,issues,contribs&include_all_commits=true" alt="Herlan Mustopa's GitHub Stats">
 </p>
 
 ---
 
-### 💞️ **Collaboration**
+### 🚀 **Most Used Languages**
+
 <p align="center">
-    I'm eager to collaborate with <strong>Humans, Meta Humans, Inhumans</strong>, and any beings from <strong>Earth</strong> or the <strong>Multiverse</strong>. If your project challenges the norm or pushes the envelope, let's connect and create something extraordinary!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 🔗 **My Contributions**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" alt="GitHub Profile Summary">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 ---
