@@ -28,7 +28,7 @@
 
 ### 🏆 **WakaTime Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=herlanmustopa&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@herlanmustopa&layout=compact&theme=radical" />
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/40ad9877-c2fe-48ac-9aeb-aa5288d29967.svg)](https://wakatime.com/@40ad9877-c2fe-48ac-9aeb-aa5288d29967)
