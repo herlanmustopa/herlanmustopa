@@ -19,12 +19,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herlanmustopa&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</p>
-
----
 
 ### 🏆 **WakaTime Stats**
 <p align="center">
@@ -38,13 +32,6 @@
 ### 🚀 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlanmustopa&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=herlanmustopa&theme=radical&hide_border=true" />
 </p>
 
 ---
