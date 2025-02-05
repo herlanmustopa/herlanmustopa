@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Herlan Mustopa</h1>
 <h3 align="center">🚀 Tech Enthusiast | 💻 Fullstack Developer | 🌍 Multiverse Explorer</h3>
-<h1>I'm a cult follower WFH (Work From Heart)</h1>
+<h1  align="center">I'm a cult follower WFH (Work From Heart)</h1>
 
 ---
 
