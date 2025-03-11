@@ -21,7 +21,7 @@
 ---
 
 
-### 🏆 **WakaTime Stats**
+### 🏆 **Activity My Hobbies**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@herlanmustopa&layout=compact&theme=radical" />
 </p>
