@@ -55,6 +55,13 @@
 
 ---
 
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herlanmustopa&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+</p>
+
+---
+
 
 ### 🤖 **Fun Fact**
 ```bash
