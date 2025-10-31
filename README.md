@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Herlan Mustopa</h1>
-<h3 align="center">🚀 Tech Enthusiast | 💻 Fullstack Developer | 🌍 Multiverse Explorer</h3>
+<h1 align="center">Hi, I'm Herlan Mustopa</h1>
+<h3 align="center">Tech Enthusiast | Fullstack Developer | Multiverse Explorer</h3>
 <h1  align="center">I'm a adherent sect WFH (Work From Heart)</h1>
 
 ---
 
-### 👀 **About Me**
-- 🔭 I’m working on cutting-edge **Frontend & Fullstack Development**.
-- 🌱 I’m currently learning **Web3, AI, and Cloud Computing**.
-- 💡 Passionate about **Open Source, Collaboration, and Innovation**.
-- 💞️ Looking to collaborate with **Humans, Meta-Humans, Inhumans, and beyond**.
-- 📫 **How to reach me?** Just call my name... (*if I'm free* 😆).
+### **About Me**
+- I’m working on cutting-edge **Frontend & Fullstack Development**.
+- I’m currently learning **Web3, AI, and Cloud Computing**.
+- Passionate about **Open Source, Collaboration, and Innovation**.
+- Looking to collaborate with **Humans, Meta-Humans, Inhumans, and beyond**.
+- **How to reach me?** Just call my name... (*if I'm free* 😆).
 
 ---
 
