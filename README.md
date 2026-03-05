@@ -1,110 +1,72 @@
-<h1 align="center">Hi 👋, I'm Herlan Mustopa</h1>
-<h3 align="center">Fullstack Engineer | Tech Explorer | AI & Cloud Enthusiast</h3>
+<h1 align="center">Hi, I'm Herlan Mustopa</h1>
+<h3 align="center">Tech Enthusiast | Fullstack Developer | Multiverse Explorer</h3>
+<h1  align="center">I'm a adherent sect WFH (Work From Heart)</h1>
 
+---
+
+### **About Me**
+- I’m working on cutting-edge **Frontend & Fullstack Development**.
+- I’m currently learning **Web3, AI, and Cloud Computing**.
+- Passionate about **Open Source, Collaboration, and Innovation**.
+- Looking to collaborate with **Humans, Meta-Humans, Inhumans, and beyond**.
+- **How to reach me?** Just call my name... (*if I'm free* 😆).
+
+---
+
+### ⚡ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=herlanmustopa&label=Profile%20views&color=0e75b6&style=flat" alt="herlanmustopa" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,redux,nodejs,java,spring,docker,git,github,figma,tailwind,azure,vscode" />
 </p>
 
 ---
 
-# 🧠 About Me
 
-- 💻 Senior **Fullstack Developer** with 8+ years experience  
-- 🚀 Currently exploring **AI, Web3, and Cloud Architecture**  
-- 🧩 Experienced in building **scalable web applications**  
-- 🌍 Open for collaboration on **Open Source & Innovative Products**  
-- ❤️ Believer of **WFH — Work From Heart**
+### 🏆 **Activity My Hobbies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@herlanmustopa&layout=compact&theme=radical" />
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/40ad9877-c2fe-48ac-9aeb-aa5288d29967.svg)](https://wakatime.com/@40ad9877-c2fe-48ac-9aeb-aa5288d29967)
 
 ---
 
-# ⚡ Tech Stack
-
+### 🚀 **Top Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,java,spring&perline=9" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,tailwindcss,azure,vscode&perline=9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlanmustopa&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
+### 🌍 **Connect With Me**
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=herlanmustopa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=herlanmustopa&theme=radical&hide_border=true" />
-
+  <a href="https://github.com/herlanmustopa">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/herlanmustopa">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/herlanmustopa">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://wakatime.com/@herlanmustopa">
+    <img src="https://img.shields.io/badge/WakaTime-%233A3A3A.svg?style=for-the-badge&logo=wakatime&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🧑‍💻 Top Languages
-
+### 📊 **GitHub Stats**
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlanmustopa&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=herlanmustopa&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=herlanmustopa&theme=radical&no-frame=true&row=1&column=7" />
-
-</p>
-
----
-
-# ⏱ Coding Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=herlanmustopa&layout=compact&theme=radical&hide_border=true" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/herlanmustopa/herlanmustopa/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/herlanmustopa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/herlanmustopa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/herlanmustopa">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://wakatime.com/@herlanmustopa">
-<img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🤖 Fun Fact
-
+### 🤖 **Fun Fact**
 ```bash
-> I explore the universe through code 🌌
-> Sometimes debugging feels like multiverse travel
-> Passionate about building things that matter 🚀
-```
+> I am currently exploring the Web3, AI, and Cloud universe 🌌
+> Multi-dimensional coding enthusiast 🤯
+> Passionate about everything tech 🚀
+
+fixing kenapa activity hobby ga muncul gambar nya]
