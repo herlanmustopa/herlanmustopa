@@ -20,7 +20,9 @@
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,java,spring,docker,git,github,figma,tailwind,azure,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,java,spring&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,tailwindcss,azure,vscode&perline=9" />
 </p>
 
 ---
@@ -105,3 +107,4 @@
 > I explore the universe through code 🌌
 > Sometimes debugging feels like multiverse travel
 > Passionate about building things that matter 🚀
+```
