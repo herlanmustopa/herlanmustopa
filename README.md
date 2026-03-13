@@ -15,7 +15,7 @@
 
 ### ⚡ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,redux,nodejs,java,spring,docker,git,github,figma,tailwind,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,pinia,npm,pnpm,redux,nodejs,java,maven,mongodb,jenkins,kafka,spring,docker,kubernetes,git,github,gitlab,go,grafana,graphql,gradle,idea,figma,tailwind,materialui,azure,vscode,cloudflare,discord,elasticsearch,mysql,postgres,postman,powershell,prometheus,pycharm,py,rabbitmq,rust,vite,vitest,vuetify,webpack,webstorm" />
 </p>
 
 ---
