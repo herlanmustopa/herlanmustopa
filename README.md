@@ -69,4 +69,4 @@
 > Multi-dimensional coding enthusiast 🤯
 > Passionate about everything tech 🚀
 
-fixing kenapa activity hobby ga muncul gambar nya]
+]
