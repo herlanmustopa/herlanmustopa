@@ -26,7 +26,7 @@
 
 ## About Me
 
-I’m a Senior Fullstack Engineer with 8+ years of experience building enterprise and large-scale systems. My core strength is frontend engineering, especially building modern web applications with strong architecture, performance, and maintainability in mind.
+I’m a Senior Frontend Engineer & Fullstack Engineer with 8+ years of experience building enterprise and large-scale systems. My core strength is frontend engineering, especially building modern web applications with strong architecture, performance, and maintainability in mind.
 
 I work across the stack, with hands-on experience in frontend platforms, backend services, system integration, and production-focused engineering practices.
 
