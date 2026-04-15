@@ -1,6 +1,6 @@
 <h1 align="center">Herlan Mustopa</h1>
 <p align="center">
-  <b>Senior Fullstack Engineer</b> • <b>Frontend Specialist</b> • <b>System Thinker</b>
+  <b>Senior Frontend Engineer & Fullstack Engineer</b> • <b>Frontend Specialist</b> • <b>System Thinker</b>
 </p>
 
 <p align="center">
